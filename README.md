@@ -1,10 +1,10 @@
-<h1> Hey there👋 I'm Herb!</h1>
+<h1> Hey there👋 This is Herb!</h1>
 
 <h2> 🙋‍♂️ &nbsp;About Me </h2>
 
-- 🤔 &nbsp; Using  technologies to do research about ... everything!
-- 🎓 &nbsp; Studying Management at the University of Texas at Dallas @utdal
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Employee technology to research on ... everything!
+- 🎓 &nbsp; Major in Management at the University of Texas at Dallas @utdal
+- ✍️ &nbsp; Pursue Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tool box</h3>
 

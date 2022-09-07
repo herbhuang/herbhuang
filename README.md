@@ -2,7 +2,7 @@
 
 <h2> 🙋‍♂️ &nbsp;About Me </h2>
 
-- 🤔 &nbsp; Employee technology to research on ... everything!
+- 🤔 &nbsp; Employ technology to research on ... everything!
 - 🎓 &nbsp; Major in Management at the University of Texas at Dallas @utdal
 - ✍️ &nbsp; Pursue Graphic Design and Blog Writing as hobbies/side hustles.
 
